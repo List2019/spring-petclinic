@@ -32,6 +32,4 @@ public class PetClinicApplication {
 		SpringApplication.run(PetClinicApplication.class, args);
 	}
 
-	throw new NullPointerException();
-
 }
